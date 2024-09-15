@@ -6,7 +6,7 @@ usando apenas duas idas até uma das salas das lâmpadas, qual interruptor contr
 
 R: 
 Ligo dois interruptores e depois vou verificar as salas das lâmpadas. 
-s lâmpadas que estiverem acesas correspondem aos interruptores que foram ligados. 
+As lâmpadas que estiverem acesas correspondem aos interruptores que foram ligados. 
 A lâmpada que não acendeu está conectada ao interruptor que não foi ativado (já identificado).
 
 Em seguida, volto à sala dos interruptores, desativo um dos interruptores que estava ligado e ligo o interruptor que já identifiquei. 
